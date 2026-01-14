@@ -16,11 +16,7 @@ Building clean, responsive, and modern web applications.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Tools & Others
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -29,7 +25,7 @@ Building clean, responsive, and modern web applications.
 ### 🎮 GAMING HUB
 A modern web app to browse and discover video games.  
 
-**Live Preview:** ![Gaming Hub Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXVueXVueXVueXVueXVueXVueXVueXVueXVueXVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxZ1UC60E0/giphy.gif)  
+**Project Animation:** ![Gaming Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXVueXVueXVueXVueXVueXVueXVueXVueXVueXVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6cXclpYpA2Wv0uGf0/giphy.gif)
 
 **Features**
 - Browse popular and trending games
@@ -47,8 +43,6 @@ A modern web app to browse and discover video games.
 ### 🛒 FreshCart Ecommerce
 An e-commerce website inspired by food delivery platforms like **Talabat**.  
 
-**Live Preview:** ![FreshCart Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXVueXVueXVueXVueXVueXVueXVueXVueXVueXVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywWMrN282KSM/giphy.gif)
-
 **Features**
 - Browse products by category
 - Product details page
@@ -65,15 +59,9 @@ An e-commerce website inspired by food delivery platforms like **Talabat**.
 ## 🌟 About Me
 
 Hi! I'm **Abdallah Gamal**, passionate about building frontend projects that are clean, responsive, and fun to use.  
-I enjoy learning new tech and creating real-world projects.
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: **abdullah.gamal3bdo@gmail.com** - 💼 LinkedIn: [abdullah-gamal](https://www.linkedin.com/in/abdullah-gamal-0550bb2a1/)
-
----
-
-## ⚡ Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
