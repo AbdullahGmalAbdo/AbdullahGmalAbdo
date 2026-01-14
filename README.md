@@ -3,8 +3,6 @@
 Frontend Developer | React & Next.js  
 Building clean, responsive, and modern web applications.  
 
-![Coding Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- هذا يمكن تغييره بالأسفل -->
-
 ---
 
 ## 🧰 Skills
@@ -23,7 +21,9 @@ Building clean, responsive, and modern web applications.
 
 ### 🎮 GAMING HUB
 A modern web app to browse and discover video games.  
-![Programming Animation](https://media.giphy.com/media/l0HlPjez4mQwb1mRy/giphy.gif)
+
+**Screenshot / Animation Preview:**  
+![Gaming Hub Loading](./a6931fb5-c6fa-44b9-a795-b04b1687bec0.png)  
 
 **Features**
 - Browse popular and trending games
@@ -32,15 +32,14 @@ A modern web app to browse and discover video games.
 - Responsive design
 - Dark mode support
 
-**Tech:** HTML5 | CSS3 | Bootstrap | JavaScript | React
+**Tech:** HTML5 | CSS3 | Bootstrap | JavaScript | React  
 
 **Live Demo:** 🔗 Coming Soon
 
 ---
 
 ### 🛒 FreshCart Ecommerce
-E-commerce website inspired by food delivery platforms like **Talabat**.  
-![Code Typing Animation](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+An e-commerce website inspired by food delivery platforms like **Talabat**.  
 
 **Features**
 - Browse products by category
@@ -49,7 +48,7 @@ E-commerce website inspired by food delivery platforms like **Talabat**.
 - Cart total calculation
 - Clean and responsive UI
 
-**Tech:** HTML5 | CSS3 | Bootstrap | JavaScript | React / Next.js
+**Tech:** HTML5 | CSS3 | Bootstrap | JavaScript | React / Next.js  
 
 **Live Demo:** 🔗 Coming Soon
 
@@ -59,8 +58,6 @@ E-commerce website inspired by food delivery platforms like **Talabat**.
 
 Hi! I'm **Abdallah Gamal**, passionate about building frontend projects that are clean, responsive, and fun to use.  
 I enjoy learning new tech and creating real-world projects.
-
-![Developer Typing GIF](https://media.giphy.com/media/26xBwdIuRJiAi2hgA/giphy.gif)
 
 ---
 
@@ -73,4 +70,3 @@ I enjoy learning new tech and creating real-world projects.
 
 ## ⚡ Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
