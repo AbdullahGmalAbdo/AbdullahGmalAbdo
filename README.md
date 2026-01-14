@@ -3,7 +3,7 @@
 Frontend Developer | React & Next.js  
 Building clean, responsive, and modern web applications.  
 
-![Header Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) <!-- هذا يمكن تغييره بالأسفل -->
 
 ---
 
@@ -23,7 +23,7 @@ Building clean, responsive, and modern web applications.
 
 ### 🎮 GAMING HUB
 A modern web app to browse and discover video games.  
-![Gaming Hub GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Programming Animation](https://media.giphy.com/media/l0HlPjez4mQwb1mRy/giphy.gif)
 
 **Features**
 - Browse popular and trending games
@@ -40,6 +40,7 @@ A modern web app to browse and discover video games.
 
 ### 🛒 FreshCart Ecommerce
 E-commerce website inspired by food delivery platforms like **Talabat**.  
+![Code Typing Animation](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
 **Features**
 - Browse products by category
@@ -59,7 +60,7 @@ E-commerce website inspired by food delivery platforms like **Talabat**.
 Hi! I'm **Abdallah Gamal**, passionate about building frontend projects that are clean, responsive, and fun to use.  
 I enjoy learning new tech and creating real-world projects.
 
-![Coding Animation](https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif)
+![Developer Typing GIF](https://media.giphy.com/media/26xBwdIuRJiAi2hgA/giphy.gif)
 
 ---
 
