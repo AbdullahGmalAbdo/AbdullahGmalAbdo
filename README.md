@@ -25,7 +25,7 @@ Building clean, responsive, and modern web applications.
 ### 🎮 GAMING HUB
 A modern web app to browse and discover video games.  
 
-**Project Animation:** ![Gaming Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXVueXVueXVueXVueXVueXVueXVueXVueXVueXVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6cXclpYpA2Wv0uGf0/giphy.gif)
+**Preview:** ![Gaming Hub Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h1cW56Mmw1YWFmY2N4YnF4Z3U3eXF6bmZ6Z3R6Z3R6Z3R6Z3R6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDN3PhS/giphy.gif)
 
 **Features**
 - Browse popular and trending games
@@ -64,4 +64,5 @@ Hi! I'm **Abdallah Gamal**, passionate about building frontend projects that are
 
 ## 📫 Contact
 
-- 📧 Email: **abdullah.gamal3bdo@gmail.com** - 💼 LinkedIn: [abdullah-gamal](https://www.linkedin.com/in/abdullah-gamal-0550bb2a1/)
+- 📧 Email: **abdullah.gamal3bdo@gmail.com**
+- 💼 LinkedIn: [abdullah-gamal](https://www.linkedin.com/in/abdullah-gamal-0550bb2a1/)
