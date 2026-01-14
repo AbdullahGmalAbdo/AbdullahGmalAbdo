@@ -17,6 +17,11 @@ Building clean, responsive, and modern web applications.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+### Tools & Others
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## 🚀 Projects
@@ -24,8 +29,7 @@ Building clean, responsive, and modern web applications.
 ### 🎮 GAMING HUB
 A modern web app to browse and discover video games.  
 
-**Screenshot / Animation Preview:**  
-![Gaming Hub Loading](./a6931fb5-c6fa-44b9-a795-b04b1687bec0.png)  
+**Live Preview:** ![Gaming Hub Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXVueXVueXVueXVueXVueXVueXVueXVueXVueXVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxZ1UC60E0/giphy.gif)  
 
 **Features**
 - Browse popular and trending games
@@ -42,6 +46,8 @@ A modern web app to browse and discover video games.
 
 ### 🛒 FreshCart Ecommerce
 An e-commerce website inspired by food delivery platforms like **Talabat**.  
+
+**Live Preview:** ![FreshCart Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXVueXVueXVueXVueXVueXVueXVueXVueXVueXVueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywWMrN282KSM/giphy.gif)
 
 **Features**
 - Browse products by category
@@ -65,8 +71,7 @@ I enjoy learning new tech and creating real-world projects.
 
 ## 📫 Contact
 
-- 📧 Email: **abdullah.gamal3bdo@gmail.com**  
-- 💼 LinkedIn: [abdullah-gamal](https://www.linkedin.com/in/abdullah-gamal-0550bb2a1/)
+- 📧 Email: **abdullah.gamal3bdo@gmail.com** - 💼 LinkedIn: [abdullah-gamal](https://www.linkedin.com/in/abdullah-gamal-0550bb2a1/)
 
 ---
 
